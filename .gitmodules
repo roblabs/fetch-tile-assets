@@ -1,3 +1,6 @@
 [submodule "xyz-raster-sources"]
 	path = xyz-raster-sources
 	url = https://github.com/roblabs/xyz-raster-sources.git
+[submodule "mbtiles-raster-vector-sources"]
+	path = mbtiles-raster-vector-sources
+	url = https://github.com/roblabs/mbtiles-raster-vector-sources.git
